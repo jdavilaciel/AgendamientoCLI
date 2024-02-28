@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Es un excel con el nombre CLI, dentro de la carpeta DataFiles en el proyecto</description>
+   <name>Cliente</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>de90a8c2-6415-4498-9f94-ab56c77b6ad8</dataFileGUID>
+   <dataSourceUrl>C:\CIEL INGENIERIA\Katalon\AgemdamientoCLI\Data Files\CLI.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>CLI</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

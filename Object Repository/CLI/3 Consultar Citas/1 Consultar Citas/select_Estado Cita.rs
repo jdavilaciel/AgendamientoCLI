@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Estado Cita</name>
+   <tag></tag>
+   <elementGuidId>da793ae5-f3ab-4d87-a101-c1f40e783993</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_rcbEstadoCita']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_rcbEstadoCita</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b9887234-861c-4ebb-82c5-89b18594db20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$rcbEstadoCita</value>
+      <webElementGuid>66082f7f-029c-4f7e-a01b-4a681cfcb034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_rcbEstadoCita</value>
+      <webElementGuid>f7c3cfa2-ef0a-4204-8140-6742a7e8104c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Seleccione...
+		Abiertas
+		Cerradas
+
+	</value>
+      <webElementGuid>d568a725-fde2-4479-9445-0eedc72df16a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbEstadoCita&quot;)</value>
+      <webElementGuid>3c7684d1-10a5-490d-8207-2c3b479ae32d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_rcbEstadoCita']</value>
+      <webElementGuid>fc3136b7-0e85-4510-9e1b-322c0d6b22af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_uplContenido']/div/div[3]/table/tbody/tr[8]/td[2]/select</value>
+      <webElementGuid>481e43f8-adcb-4f46-8701-a44027dbe8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::select[1]</value>
+      <webElementGuid>8e0ffab9-c738-44b2-a77c-3f85f7e4fb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/preceding::select[1]</value>
+      <webElementGuid>7e9e8c87-8050-424f-8115-bd2b2d958ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/select</value>
+      <webElementGuid>6ab16b6a-4d9b-43f0-ab54-01bf0975e8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$rcbEstadoCita' and @id = 'ctl00_ContentPlaceHolder2_rcbEstadoCita' and (text() = '
+		Seleccione...
+		Abiertas
+		Cerradas
+
+	' or . = '
+		Seleccione...
+		Abiertas
+		Cerradas
+
+	')]</value>
+      <webElementGuid>540b1ca4-d082-4b24-a1da-94cf27e1c19c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

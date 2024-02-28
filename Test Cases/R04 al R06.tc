@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Solicictar cita con usuario ya creado</description>
+   <name>R04 al R06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>775f8adf-fd8c-4644-8eb6-95b09d3193c2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3936c0b3-cc94-4f26-8bdc-92635f78e755</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>numero de cita</description>
+      <id>3936c0b3-cc94-4f26-8bdc-92635f78e755</id>
+      <masked>false</masked>
+      <name>cita</name>
+   </variable>
+</TestCaseEntity>

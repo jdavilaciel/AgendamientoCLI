@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Valle del Cauca</name>
+   <tag></tag>
+   <elementGuidId>64e5dfd1-41fe-4bad-be30-4f582799f19e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.rcbHovered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>df3a68c6-f6da-476c-90ed-2e852b0809e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcbHovered</value>
+      <webElementGuid>88a2de0c-20aa-4151-acde-72c1faf055ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Valle del Cauca</value>
+      <webElementGuid>b24333cf-0960-40b0-936b-46f5eb541a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/ul[@class=&quot;rcbList&quot;]/li[@class=&quot;rcbHovered&quot;]</value>
+      <webElementGuid>e37ff6ba-c951-46f4-a238-33bf85dcadb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[8]</value>
+      <webElementGuid>d3f4a838-7217-45e5-ad1f-26334a93b669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dpto. WorkFlow'])[1]/following::li[1]</value>
+      <webElementGuid>02bcb838-1d5e-4e29-a38c-f0623423539b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dpto. Virtual'])[1]/following::li[2]</value>
+      <webElementGuid>f7fa4c94-b252-42e6-985b-8a0bbb31a581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistema de Agendamiento Virtual'])[1]/preceding::li[1]</value>
+      <webElementGuid>de759633-8bf0-400b-a588-fa4aef351182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para agendar su cita Usted debe:'])[1]/preceding::li[1]</value>
+      <webElementGuid>2d45d666-38d5-4bb1-bfde-2e6a355ea0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Valle del Cauca']/parent::*</value>
+      <webElementGuid>390b0d24-55d5-4d9b-a442-f14229a514ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]</value>
+      <webElementGuid>8f1271bd-1ab3-4082-84e0-94bef8110ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Valle del Cauca' or . = 'Valle del Cauca')]</value>
+      <webElementGuid>e475368e-947c-4855-a8e4-ab3921d3eccf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dpto. Virtual</name>
+   <tag></tag>
+   <elementGuidId>eb0ba6ae-a728-4260-8315-b7c291b29182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fa858802-b90e-4f6f-b642-c2743335d6d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcbItem</value>
+      <webElementGuid>79f5baad-1faa-4d2a-83ae-d99879547470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dpto. Virtual</value>
+      <webElementGuid>40ae0cb7-dda6-4dc7-b194-717276bb039c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/ul[@class=&quot;rcbList&quot;]/li[@class=&quot;rcbItem&quot;]</value>
+      <webElementGuid>7b05131a-54df-46a1-bcbf-3f4d0646772e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[6]</value>
+      <webElementGuid>7814478f-c7e0-4a15-8a51-00660d6ffddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cundinamarca'])[1]/following::li[1]</value>
+      <webElementGuid>5336e832-8260-4467-b10b-5391e558c3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caldas'])[1]/following::li[2]</value>
+      <webElementGuid>1b2a2dc9-515c-43f4-9801-dec2db738934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dpto. WorkFlow'])[1]/preceding::li[1]</value>
+      <webElementGuid>7d050aa1-2c54-4b5a-bb72-0e2b8a801fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valle del Cauca'])[1]/preceding::li[2]</value>
+      <webElementGuid>de1b0d8d-9f4d-4128-8a44-e554ee255fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dpto. Virtual']/parent::*</value>
+      <webElementGuid>07419514-4942-4e2d-8a58-3deebdf898c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]</value>
+      <webElementGuid>42f25d3d-dd61-4ad9-87ab-b57d47df3bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Dpto. Virtual' or . = 'Dpto. Virtual')]</value>
+      <webElementGuid>9db13a79-095a-40e3-bbaa-8fe0442dd15b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

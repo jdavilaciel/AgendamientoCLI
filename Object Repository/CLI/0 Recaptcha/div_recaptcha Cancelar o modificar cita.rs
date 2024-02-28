@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_recaptcha Cancelar o modificar cita</name>
+   <tag></tag>
+   <elementGuidId>95914885-4265-4fa4-9336-cd1a5700b364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.DivReCaptchaG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_uplContenido']/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9237cba6-72c3-4f0f-9682-7b79287ec1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DivReCaptchaG</value>
+      <webElementGuid>a630ab4a-f790-488f-88a3-b90033eb3f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_uplContenido&quot;)/div[@class=&quot;divCuerpoInicio col-xs-10 col-xs-offset-1&quot;]/div[@class=&quot;DivReCaptchaG&quot;]</value>
+      <webElementGuid>ee77f944-2114-4818-bafb-f0b5aac3734d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_uplContenido']/div/div[3]</value>
+      <webElementGuid>9d21490d-fcbd-458f-83f6-c64cebc59e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo obligatorio'])[4]/following::div[1]</value>
+      <webElementGuid>4fbc2162-b428-4939-8526-26bbeea45d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de cita:'])[2]/following::div[1]</value>
+      <webElementGuid>ab994210-3a82-4fbc-836b-d70ab0656785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::div[10]</value>
+      <webElementGuid>10407fb8-3e50-4d05-ae91-572671606ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[3]</value>
+      <webElementGuid>810b2447-8e5d-43a6-af34-cb94dd800ce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

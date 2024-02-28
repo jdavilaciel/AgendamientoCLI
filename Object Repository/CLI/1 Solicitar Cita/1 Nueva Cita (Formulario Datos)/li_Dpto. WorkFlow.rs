@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dpto. WorkFlow</name>
+   <tag></tag>
+   <elementGuidId>1c1aec9c-2200-4e9b-921b-cbdb68793eae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.rcbHovered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6ec3e16d-282d-47e6-bddf-2785a6a33817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcbHovered</value>
+      <webElementGuid>3d615e8b-dc47-456b-9ae6-60bf050e78b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dpto. WorkFlow</value>
+      <webElementGuid>a4f309d4-a1df-444e-bf10-77b0447c82d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/ul[@class=&quot;rcbList&quot;]/li[@class=&quot;rcbHovered&quot;]</value>
+      <webElementGuid>750a714d-c457-4fa1-a6db-770bc6802a8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rcbDepartamento_DropDown']/div/ul/li[7]</value>
+      <webElementGuid>321119a8-b8ed-48ba-a308-45e98197345a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dpto. Virtual'])[1]/following::li[1]</value>
+      <webElementGuid>b61e7a7b-a289-47ad-9dc5-7eba4519e623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cundinamarca'])[1]/following::li[2]</value>
+      <webElementGuid>8d48e7e8-a14f-49c8-8896-b7de533e05e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valle del Cauca'])[1]/preceding::li[1]</value>
+      <webElementGuid>7a330320-ad46-4ba3-a8a2-83575ce0c3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistema de Agendamiento Virtual'])[1]/preceding::li[2]</value>
+      <webElementGuid>2a4ab528-ca19-441a-b578-8faa25644df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dpto. WorkFlow']/parent::*</value>
+      <webElementGuid>bb94252c-f0e9-4e22-b427-2414180b27ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]</value>
+      <webElementGuid>3c394430-f280-4268-933f-f56f4a005f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Dpto. WorkFlow' or . = 'Dpto. WorkFlow')]</value>
+      <webElementGuid>1ac63bfa-f5e0-41d0-a395-b241e0692610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

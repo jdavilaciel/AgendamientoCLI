@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Campo obligatorio_DivReCaptchaG</name>
+   <tag></tag>
+   <elementGuidId>3a23c236-c910-4095-94d4-91c7c5b50134</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.DivReCaptchaG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_uplContenido']/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b11523e-a6d6-4646-a6a1-5f8de39ff28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DivReCaptchaG</value>
+      <webElementGuid>0c596d22-7d39-42bc-8cd5-5b55eb584f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_uplContenido&quot;)/div[@class=&quot;divCuerpoInicio col-xs-10 col-xs-offset-1&quot;]/div[@class=&quot;DivReCaptchaG&quot;]</value>
+      <webElementGuid>7feef313-8fba-4680-9140-e0023f6842e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_uplContenido']/div/div[3]</value>
+      <webElementGuid>7f0cf7ff-2e9a-4cb7-9144-3b743be9cd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo obligatorio'])[11]/following::div[2]</value>
+      <webElementGuid>075a7822-02af-4b22-9ddc-a4410bd59179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[2]/following::div[5]</value>
+      <webElementGuid>7d8cb6b1-d9f8-439a-8b33-ddc4a111e4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::div[15]</value>
+      <webElementGuid>b5cf91fd-af63-4943-a156-d7a2be0b80b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[3]</value>
+      <webElementGuid>783b67a7-e6db-43ee-8208-811ca4c11beb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
